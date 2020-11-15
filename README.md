@@ -1,7 +1,7 @@
 # Hi there it's ay  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🌱 I’m currently learning flutter & dart
-#### 🔭 I’m currently working on goGreen a flutter mobile app that help you find local services around you
+### 🌱 I’m currently learning flutter & dart, curious to jump to API.
+#### 🔭 I’m currently working on goGreen a flutter mobile app that help users find local services providers around you.
 - 💬 Ask me about flutter 
 - ⚡ Fun fact: started programming because of the movie iron man & tony stark, but in reality tony stark is not tech inclinde. 
 - 👯 I’m looking to collaborate on open source community in m locality.
