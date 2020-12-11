@@ -5,8 +5,10 @@
 - 💬 Ask me about flutter, firebase or dart.
 - ⚡ Fun fact: started programming because of the movie iron man & tony stark, but in reality tony stark is not tech inclinde. 
 - 👯 I’m looking to collaborate on open source community in my locality relating to web and flutter.
-- The last thing i worked on is scoreline; an app that works on web(pwa) and mobile.
+- The last thing i worked on is scoreline; an app that works on web(pwa) and mobile. All it does is show football highlights
 - [Link to scoreline web app](https://https://scoreline-61b57.web.app/#/)
+
+
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
