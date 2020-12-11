@@ -1,10 +1,10 @@
 # Hi there it's ay  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### 🌱 I’m currently learning flutter & dart, curious to jump to API.
-#### 🔭 I’m currently working on goGreen a flutter mobile app that help users find local services providers around you.
+#### 🔭 I’m currently working on goGreen a flutter mobile app that help users find local services providers around you using google cloud firebase,google maps and gps.
 - 💬 Ask me about flutter 
 - ⚡ Fun fact: started programming because of the movie iron man & tony stark, but in reality tony stark is not tech inclinde. 
-- 👯 I’m looking to collaborate on open source community in m locality.
+- 👯 I’m looking to collaborate on open source community in my locality relating to web and flutter.
 
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
