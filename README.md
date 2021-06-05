@@ -1,6 +1,6 @@
 # Hi there it's ay  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🌱 I’m currently learning flutter & dart, curious to jump on learning about Graphql.
+### 🌱 In love with flutter & dart, build mobile apps and PWA, curious to collaborate on open-source project.
 #### 🔭 I’m currently working on goGreen a flutter mobile app that help users find local services providers around you using google cloud firebase,google maps and gps.
 - 💬 Ask me about flutter, firebase or dart.
 - ⚡ Fun fact: started programming because of the movie iron man & tony stark, but in reality tony stark is not tech inclinde. 
