@@ -5,7 +5,7 @@
 - 💬 Ask me about flutter, firebase or dart.
 - ⚡ Fun fact: started programming because of the movie iron man & tony stark, but in reality tony stark is not tech inclinde. 
 - 👯 I’m looking to collaborate on open source community in my locality relating to web and flutter.
-- The last thing i worked on is scoreline; an app that works on web(pwa) and mobile. All it does is show football highlights
+- The last thing I worked on is Jubeth store; an ecommerce mobile app that sell baby clothes.
 - [Link to scoreline web app](https://https://scoreline-61b57.web.app/#/)
 
 
