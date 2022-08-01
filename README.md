@@ -1,13 +1,11 @@
 # Hi there it's ay  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🌱 In love with flutter & dart, build mobile apps and PWA, curious to collaborate on open-source project.
+### 🌱 In love with flutter & dart, build mobile apps and a DevOps, curious to collaborate on open-source project.
 #### 🔭 I’m currently working on goGreen a flutter mobile app that help users find local services providers around you using google cloud firebase,google maps and gps.
 - 💬 Ask me about flutter, firebase or dart.
-- ⚡ Fun fact: started programming because of the movie iron man & tony stark, but in reality tony stark is not tech inclinde. 
-- 👯 I’m looking to collaborate on open source community in my locality relating to web and flutter.
+- ⚡ Fun fact: started programming because of two movies, iron man & the flash.  
+- 👯 I’m looking to collaborate on open source community in my locality relating to building mobile apps with flutter and DevOps.
 - The last thing I worked on is Jubeth store; an ecommerce mobile app that sell baby clothes.
-- [Link to scoreline web app](https://https://scoreline-61b57.web.app/#/)
-
 
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
@@ -27,9 +25,9 @@
 
 Here are some ideas to get you started:
 
-### 🔭 I’m currently working on goGreen a flutter mobile app that help you find local services around you
+### 🔭 I’m currently working on Safer-Cliq a flutter mobile app that helps you keep track of your loved ones location, using google maps. 
 ### 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on open source project related to flutter 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
